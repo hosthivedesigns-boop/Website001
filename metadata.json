@@ -1,0 +1,6 @@
+{
+  "name": "Mindshift Academy",
+  "description": "Modern, welcoming, and high-converting single-page website for Mindshift Academy therapy center in Kavanur, founded by Guinness World Record holder Muhammad Khan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
